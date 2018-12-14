@@ -14,7 +14,7 @@ p{
     font-family: Monserrat;
 }
 #inicio {    
-    background: url("/img/fondo.jpg") no-repeat center center fixed;
+    background: url("../img/fondo.jpg") no-repeat center center fixed;
     display: table;
     position: relative;
     height: 100%;
@@ -35,7 +35,7 @@ p{
     width: 100%;
 }
 #parallax{
-    background: url("/img/pen.jpg") no-repeat center center fixed;
+    background: url("../img/pen.jpg") no-repeat center center fixed;
     display: table;
     position: relative;
     height: 100%;
